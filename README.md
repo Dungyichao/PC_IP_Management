@@ -122,6 +122,14 @@ Image 8 Add PC, IP and other information.
 GIF 4. Edit PC, IP and other data to in the selected row. 
 </p>
 
+<p align="center">
+<img src="/Image/5_Delete.gif" height="80%" width="80%"> 
+</p>  
+
+<p align="center">
+GIF 5. Delete PC, IP and other data of the selected row. 
+</p>
+
 7.	Edit: You can edit the pc information by clicking on the working station you want to modify and click Edit button in the main menu. The original data will show in the top of the screen and displaying in the text box for you to modify. Click “Confirm Edit” when you finish editing and save data.
 
 <p align="center">
