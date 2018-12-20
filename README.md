@@ -54,7 +54,7 @@ Image 4. Main menu with fresh start.
 </p>
 
 <p align="center">
-<img src="/Image/ReadmeImage/5_Main.JPG" height="50%" width="50%">   
+<img src="/Image/ReadmeImage/5_Main.jpg" height="50%" width="50%">   
 </p>
 
 <p align="center">
