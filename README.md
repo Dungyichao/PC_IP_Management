@@ -17,7 +17,7 @@ GIF 1. Fresh start and create database.
 1.	Start up screen: If this is the first time you use this application, there is the “First Time” button to set up the database connection. If you’ve set up the connection before, the application will malfunction this button. The application will detect the text file in your C drive (C:\\IPWizard\info\databaseInfo.txt) and make connection based on the information you provided previously. <br />
 
 <p align="center">
-<img src="/Image/ReadmeImage/1_Login.JPG" height="50%" width="50%">   
+<img src="/Image/ReadmeImage/1_Login.JPG" height="30%" width="30%">   
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ GIF 2. Add some data to database.
 4.	Setting: In the setting button, you can add user or add department group. <br />
 
 <p align="center">
-<img src="/Image/ReadmeImage/6_Setting.JPG" height="50%" width="50%">   
+<img src="/Image/ReadmeImage/6_Setting.JPG" height="30%" width="30%">   
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ GIF 3. Add PC and IP data to table.
 6.	Add: You can add new PC by clicking the Add button in Main Menu (image 5). When you key in the IP, the application will automatically show Good sign if the IP address is not in the database or Used sign otherwise. You can click Ping button to Ping the address. Good sign means the ping is failed (no terminal under this IP address). You can click Get button to get an unused IP after entering the second and the third part of IP address and the application will fill in the fourth part of IP address for you. Some working station requires 2 IP address due to two networking cards. Usually, IT set the fourth part of IP the same in both 172 and 192, then you can simply click the “Similar” checkbox and then click “Get” button for 192. Some working station allows the used IP for 192 due to no connection to the Ethernet, so you can click the “Allow Duplicate” button to avoid application blockage for duplicate IP address appearing in the database.  Click “Confirm” to save the data. <br />
 
 <p align="center">
-<img src="/Image/ReadmeImage/8_Add.JPG" height="50%" width="50%">   
+<img src="/Image/ReadmeImage/8_Add.JPG" height="70%" width="70%">   
 </p>
 
 <p align="center">
